@@ -31,3 +31,15 @@ var fullName = firstName + " " + lastName;
 
 console.log(fullName);
 console.log(fullName + hasPets + "pets. ");
+
+var x = 25;
+var y = 3;
+var z = "z = " + (x*2);
+
+console.log (z);
+
+var num1 = 3;
+var num2 = 2;
+var x = num1 * num2 + num2 * 3;
+
+console.log (x);
